@@ -35,8 +35,8 @@ a:hover {
 
 header#cabecalho img#icone {
 	position: absolute;
-	left: 780px; 
-	top: 70px;
+	left: 950px; 
+	top: 40px;
 }
 
 header#cabecalho {
@@ -101,7 +101,7 @@ nav#menu ul {
 	text-transform: uppercase;
 	position: absolute;
 	top: -20px;
-	left: 300px;
+	left: 450px;
 }
 
 nav#menu li {
@@ -258,5 +258,12 @@ section#redes {
 }
 /* Fim teste */
 
-
+video.vHome {
+	position: relative;
+	right: 8px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	padding: 10px;
+}
 
